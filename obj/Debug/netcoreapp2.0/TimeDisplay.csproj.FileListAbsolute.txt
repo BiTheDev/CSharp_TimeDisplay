@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb
